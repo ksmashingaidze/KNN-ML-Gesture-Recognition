@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1548010998 source:c:\users\stephen\desktop\imageprocessing\main.cpp
+	<iostream>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<cstring>
+	<string>
+	<strstream>
+	<sstream>
+	<math.h>
+
+1707433467 source:c:\users\ksmas\onedrive\documents\development\c-family\c++\kuziwa image processing 2018\image processing\repository\knn image recognition 2\imageprocessing\main.cpp
+	<iostream>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<cstring>
+	<string>
+	<strstream>
+	<sstream>
+	<math.h>
+
+1707448871 source:c:\users\ksmas\onedrive\documents\development\c-family\knn gesture recognition\imageprocessing\main.cpp
+	<iostream>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<cstring>
+	<string>
+	<strstream>
+	<sstream>
+	<math.h>
+
+1707448871 source:c:\users\ksmas\onedrive\documents\development\c-family\c++\kuziwa image processing 2018\image processing\repository\knn gesture recognition\main.cpp
+	<iostream>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<cstring>
+	<string>
+	<strstream>
+	<sstream>
+	<math.h>
+
+1707448871 source:c:\users\ksmas\onedrive\documents\development\c-family\c++\kuziwa image processing 2018\image processing\repository\knn ml gesture recognition\main.cpp
+	<iostream>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<cstring>
+	<string>
+	<strstream>
+	<sstream>
+	<math.h>
+
